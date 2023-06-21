@@ -1,5 +1,4 @@
 import React from 'react';
-
 import './Form.scss';
 
 function Form(props) {
@@ -15,7 +14,7 @@ function Form(props) {
 
     return (
       <>
-        <form onSubmit={this.handleSubmit}>
+        <form onSubmit={handleSubmit}>
           <label >
             <span>URL: </span>
             <input name='url' type='text' />
