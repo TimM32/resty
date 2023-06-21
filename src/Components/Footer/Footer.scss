@@ -1,0 +1,10 @@
+$backgroundColor: #1780d7;
+$secondaryColor: darken($backgroundColor, 19);
+
+footer {
+    background: $secondaryColor;
+    border-top: 1px solid #c70b0b;
+    padding: 1em 3em;
+    margin: 0;
+    text-align: center;
+  }
