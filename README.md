@@ -23,6 +23,8 @@ Project bootstrap with Create React App
 
 ### Collaborators
 
+Used Chatgpt to help with testing
+
 ### Setup
 
 - Begin a React project locally with create-react-app
@@ -34,3 +36,8 @@ Project bootstrap with Create React App
 
 ### Test
 
+Npm Test
+
+### Deployment
+
+Code Sandbox: https://4yc8sw-3000.csb.app/
