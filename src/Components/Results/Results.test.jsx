@@ -1,7 +1,7 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
 import '@testing-library/jest-dom'; // Import the jest-dom library
-import Results from '../Results';
+import Results from './index';
 
 
 describe('Results', () => {
