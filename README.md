@@ -1,4 +1,4 @@
-# Lab 26 - Component Based UI, Hook Concepts, Hook Effects
+# Lab 26 - Component Based UI, Hook Concepts, Hook Effects, Hook API
 
 Project bootstrap with Create React App
 
